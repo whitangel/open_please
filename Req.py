@@ -1,4 +1,3 @@
-code:
 data = {
                 'lsd': lsd2,
                 'jazoest': j2,
